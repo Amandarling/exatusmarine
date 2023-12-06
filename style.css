@@ -1,0 +1,32 @@
+.div {
+    justify-content: space-between;
+    border-bottom: 1px solid #d9d9d9;
+    background-color: #fff;
+    display: flex;
+    gap: 20px;
+    padding: 24px 0;
+  }
+  @media (max-width: 991px) {
+    .div {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+  .img {
+    aspect-ratio: 0.95;
+    object-fit: contain;
+    object-position: center;
+    width: 20px;
+    overflow: hidden;
+    align-self: center;
+    max-width: 100%;
+    margin: auto 0;
+  }
+  .img-2 {
+    aspect-ratio: 6.69;
+    object-fit: contain;
+    object-position: center;
+    width: 214px;
+    overflow: hidden;
+    max-width: 100%;
+  }
