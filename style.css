@@ -1,3 +1,4 @@
+/* Navegação */
 .imagens {
     justify-content: space-between;
     border-bottom: 1px solid #d9d9d9;
@@ -12,7 +13,7 @@
       justify-content: center;
     }
   }
-  .img {
+  .img-nav {
     aspect-ratio: 0.95;
     object-fit: contain;
     object-position: center;
@@ -22,7 +23,7 @@
     max-width: 100%;
     margin: auto 0;
   }
-  .img-2 {
+  .img-logo {
     aspect-ratio: 6.69;
     object-fit: contain;
     object-position: center;
@@ -30,3 +31,152 @@
     overflow: hidden;
     max-width: 100%;
   }
+  /* Navegação */
+
+  /* Footer */
+  .div {
+    align-items: center;
+    background-color: #f7f7f7;
+    display: flex;
+    flex-direction: column;
+    padding: 49px 40px;
+  }
+  @media (max-width: 991px) {
+    .div {
+      padding: 0 20px;
+    }
+  }
+  .img {
+    aspect-ratio: 1.18;
+    object-fit: contain;
+    object-position: center;
+    width: 94px;
+    overflow: hidden;
+    margin-top: 30px;
+    max-width: 100%;
+  }
+  .div-2 {
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #d9d9d9;
+    border-bottom: 1px solid #d9d9d9;
+    align-self: stretch;
+    display: flex;
+    margin-top: 80px;
+    width: 100%;
+    gap: 20px;
+    padding: 40px 0;
+  }
+  @media (max-width: 991px) {
+    .div-2 {
+      max-width: 100%;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-top: 40px;
+    }
+  }
+  .img-2 {
+    aspect-ratio: 9.54;
+    object-fit: contain;
+    object-position: center;
+    width: 229px;
+    overflow: hidden;
+    align-self: stretch;
+    max-width: 100%;
+  }
+  .div-3 {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin: auto 0;
+  }
+  @media (max-width: 991px) {
+    .div-3 {
+      max-width: 100%;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+  .div-4 {
+    align-self: stretch;
+    display: flex;
+    gap: 16px;
+  }
+  @media (max-width: 991px) {
+    .div-4 {
+      justify-content: center;
+    }
+  }
+  .img-3 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 24px;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 24px;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 24px;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .img-6 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 24px;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .div-5 {
+    align-self: stretch;
+    display: flex;
+    margin-top: 24px;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  @media (max-width: 991px) {
+    .div-5 {
+      max-width: 100%;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+  .div-6 {
+    color: #666560;
+    align-self: start;
+    margin-top: 6px;
+    flex-grow: 1;
+    flex-basis: auto;
+    font: 400 12px/18px DM Sans, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-6 {
+      max-width: 100%;
+    }
+  }
+  .div-7 {
+    color: #666560;
+    margin-top: 6px;
+    font: 400 12px/18px DM Sans, sans-serif;
+  }
+  .img-7 {
+    aspect-ratio: 2.29;
+    object-fit: contain;
+    object-position: center;
+    width: 55px;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  /* Footer */
