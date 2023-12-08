@@ -34,7 +34,7 @@
   /* Navegação */
 
   /* Main */
-  .pgina-de-espera {
+  .exatus-marine {
     background-color: #ffffff;
     display: flex;
     flex-direction: row;
@@ -42,22 +42,20 @@
     width: 100%;
   }
   
-  .pgina-de-espera .div {
+  .exatus-marine .div {
     background-color: #ffffff;
     width: 1440px;
     height: 3600px;
     position: relative;
   }
   
-  .pgina-de-espera .overlap {
+  .exatus-marine .overlap {
     position: absolute;
-    width: 700px;
-    height: 768px;
     top: 0;
     left: 740px;
   }
   
-  .pgina-de-espera .rectangle {
+  .exatus-marine .rectangle {
     position: absolute;
     width: 583px;
     height: 768px;
@@ -67,7 +65,7 @@
     opacity: 0.1;
   }
   
-  .pgina-de-espera .espera {
+  .exatus-marine .espera {
     position: absolute;
     width: 543px;
     height: 544px;
@@ -75,7 +73,7 @@
     left: 0;
   }
   
-  .pgina-de-espera .frame {
+  .exatus-marine .frame {
     display: flex;
     flex-direction: column;
     width: 466px;
@@ -86,7 +84,7 @@
     left: 157px;
   }
   
-  .pgina-de-espera .text-wrapper {
+  .exatus-marine .text-wrapper {
     position: relative;
     align-self: stretch;
     margin-top: -1px;
@@ -98,7 +96,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .p {
+  .exatus-marine .p {
     position: relative;
     align-self: stretch;
     font-family: "DM Sans-Regular", Helvetica;
@@ -109,7 +107,7 @@
     line-height: 24px;
   }
   
-  .pgina-de-espera .div-wrapper {
+  .exatus-marine .div-wrapper {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -122,7 +120,7 @@
     text-decoration: none;
   }
   
-  .pgina-de-espera .text-wrapper-2 {
+  .exatus-marine .text-wrapper-2 {
     position: relative;
     width: fit-content;
     margin-top: -1px;
@@ -134,9 +132,8 @@
     line-height: 24px;
     white-space: nowrap;
   }
-
   
-  .pgina-de-espera .frame-2 {
+  .exatus-marine .frame-2 {
     display: inline-flex;
     flex-direction: column;
     align-items: center;
@@ -146,7 +143,7 @@
     left: 390px;
   }
   
-  .pgina-de-espera .frame-3 {
+  .exatus-marine .frame-3 {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -158,7 +155,7 @@
     border-radius: 4px;
   }
   
-  .pgina-de-espera .text-wrapper-3 {
+  .exatus-marine .text-wrapper-3 {
     position: relative;
     width: fit-content;
     margin-top: -1px;
@@ -171,7 +168,7 @@
     white-space: nowrap;
   }
   
-  .pgina-de-espera .text-wrapper-4 {
+  .exatus-marine .text-wrapper-4 {
     position: relative;
     width: 660px;
     font-family: "DM Sans-Regular", Helvetica;
@@ -183,7 +180,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .frame-4 {
+  .exatus-marine .frame-4 {
     display: inline-flex;
     flex-direction: column;
     align-items: center;
@@ -193,7 +190,7 @@
     left: 390px;
   }
   
-  .pgina-de-espera .frame-5 {
+  .exatus-marine .frame-5 {
     display: flex;
     flex-direction: column;
     width: 427px;
@@ -204,7 +201,7 @@
     left: 40px;
   }
 
-  .pgina-de-espera .img {
+  .exatus-marine .img {
     position: relative;
     align-self: stretch;
     width: 100%;
@@ -213,11 +210,11 @@
     transition: transform 0.2s ease; 
   }
 
-  .pgina-de-espera .img:hover {
+  .exatus-marine .img:hover {
     transform: scale(1.05); 
   }
   
-  .pgina-de-espera .frame-6 {
+  .exatus-marine .frame-6 {
     display: flex;
     flex-direction: column;
     width: 543px;
@@ -228,7 +225,7 @@
     margin-right: -116px;
   }
   
-  .pgina-de-espera .text-wrapper-5 {
+  .exatus-marine .text-wrapper-5 {
     position: relative;
     width: 432px;
     margin-top: -1px;
@@ -240,7 +237,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .text-wrapper-6 {
+  .exatus-marine .text-wrapper-6 {
     position: relative;
     width: 432px;
     font-family: "DM Sans-Regular", Helvetica;
@@ -251,7 +248,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .frame-7 {
+  .exatus-marine .frame-7 {
     display: flex;
     flex-direction: column;
     width: 426px;
@@ -262,7 +259,7 @@
     left: 507px;
   }
   
-  .pgina-de-espera .frame-8 {
+  .exatus-marine .frame-8 {
     display: flex;
     flex-direction: column;
     width: 543px;
@@ -273,7 +270,7 @@
     margin-right: -117px;
   }
   
-  .pgina-de-espera .frame-9 {
+  .exatus-marine .frame-9 {
     display: flex;
     flex-direction: column;
     width: 427px;
@@ -284,7 +281,7 @@
     left: 973px;
   }
   
-  .pgina-de-espera .overlap-group {
+  .exatus-marine .overlap-group {
     position: absolute;
     width: 635px;
     height: 725px;
@@ -292,7 +289,7 @@
     left: 40px;
   }
   
-  .pgina-de-espera .rectangle-2 {
+  .exatus-marine .rectangle-2 {
     position: absolute;
     width: 635px;
     height: 635px;
@@ -301,7 +298,7 @@
     object-fit: cover;
   }
   
-  .pgina-de-espera .overlap-wrapper {
+  .exatus-marine .overlap-wrapper {
     position: absolute;
     width: 180px;
     height: 180px;
@@ -309,13 +306,13 @@
     left: 350px;
   }
   
-  .pgina-de-espera .overlap-2 {
+  .exatus-marine .overlap-2 {
     position: relative;
     width: 322px;
     height: 180px;
   }
   
-  .pgina-de-espera .linked-path-group {
+  .exatus-marine .linked-path-group {
     position: absolute;
     width: 322px;
     height: 180px;
@@ -323,7 +320,7 @@
     left: 0;
   }
   
-  .pgina-de-espera .overlap-group-2 {
+  .exatus-marine .overlap-group-2 {
     position: relative;
     width: 180px;
     height: 180px;
@@ -331,7 +328,7 @@
     background-size: 100% 100%;
   }
   
-  .pgina-de-espera .overlap-3 {
+  .exatus-marine .overlap-3 {
     position: absolute;
     width: 47px;
     height: 67px;
@@ -339,7 +336,7 @@
     left: 123px;
   }
   
-  .pgina-de-espera .copy-wellness {
+  .exatus-marine .copy-wellness {
     position: absolute;
     height: 16px;
     top: 0;
@@ -353,7 +350,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-2 {
+  .exatus-marine .copy-wellness-2 {
     top: 11px;
     left: 29px;
     transform: rotate(104.73deg);
@@ -367,7 +364,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-3 {
+  .exatus-marine .copy-wellness-3 {
     top: 16px;
     left: 30px;
     transform: rotate(109.49deg);
@@ -381,7 +378,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-4 {
+  .exatus-marine .copy-wellness-4 {
     top: 19px;
     left: 29px;
     transform: rotate(112.28deg);
@@ -395,7 +392,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-5 {
+  .exatus-marine .copy-wellness-5 {
     top: 24px;
     left: 24px;
     transform: rotate(117.19deg);
@@ -409,7 +406,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-6 {
+  .exatus-marine .copy-wellness-6 {
     top: 31px;
     left: 20px;
     transform: rotate(123.94deg);
@@ -423,7 +420,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-7 {
+  .exatus-marine .copy-wellness-7 {
     top: 37px;
     left: 16px;
     transform: rotate(130deg);
@@ -437,7 +434,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-8 {
+  .exatus-marine .copy-wellness-8 {
     top: 42px;
     left: 12px;
     transform: rotate(135.62deg);
@@ -451,7 +448,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-9 {
+  .exatus-marine .copy-wellness-9 {
     top: 46px;
     left: 9px;
     transform: rotate(140deg);
@@ -465,7 +462,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-10 {
+  .exatus-marine .copy-wellness-10 {
     top: 49px;
     left: 3px;
     transform: rotate(144.8deg);
@@ -479,7 +476,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-11 {
+  .exatus-marine .copy-wellness-11 {
     top: 52px;
     left: 0;
     transform: rotate(149.43deg);
@@ -493,7 +490,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-12 {
+  .exatus-marine .copy-wellness-12 {
     top: 143px;
     left: 119px;
     transform: rotate(152.81deg);
@@ -507,7 +504,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-13 {
+  .exatus-marine .copy-wellness-13 {
     top: 145px;
     left: 112px;
     transform: rotate(158.14deg);
@@ -521,7 +518,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-14 {
+  .exatus-marine .copy-wellness-14 {
     top: 148px;
     left: 105px;
     transform: rotate(164.4deg);
@@ -535,7 +532,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-15 {
+  .exatus-marine .copy-wellness-15 {
     top: 149px;
     left: 100px;
     transform: rotate(169.64deg);
@@ -549,7 +546,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-16 {
+  .exatus-marine .copy-wellness-16 {
     top: 150px;
     left: 92px;
     transform: rotate(175.36deg);
@@ -563,7 +560,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-17 {
+  .exatus-marine .copy-wellness-17 {
     top: 150px;
     left: 88px;
     transform: rotate(-179.56deg);
@@ -577,7 +574,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-18 {
+  .exatus-marine .copy-wellness-18 {
     top: 150px;
     left: 80px;
     transform: rotate(-174.92deg);
@@ -591,7 +588,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .overlap-4 {
+  .exatus-marine .overlap-4 {
     position: absolute;
     width: 65px;
     height: 151px;
@@ -599,7 +596,7 @@
     left: 19px;
   }
   
-  .pgina-de-espera .copy-wellness-19 {
+  .exatus-marine .copy-wellness-19 {
     top: 133px;
     left: 54px;
     transform: rotate(-168.33deg);
@@ -613,7 +610,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-20 {
+  .exatus-marine .copy-wellness-20 {
     top: 132px;
     left: 51px;
     transform: rotate(-163.53deg);
@@ -627,7 +624,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .overlap-5 {
+  .exatus-marine .overlap-5 {
     position: absolute;
     width: 59px;
     height: 144px;
@@ -635,7 +632,7 @@
     left: 0;
   }
   
-  .pgina-de-espera .copy-wellness-21 {
+  .exatus-marine .copy-wellness-21 {
     top: 128px;
     left: 47px;
     transform: rotate(-160.51deg);
@@ -649,7 +646,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-22 {
+  .exatus-marine .copy-wellness-22 {
     top: 127px;
     left: 42px;
     transform: rotate(-156.65deg);
@@ -663,7 +660,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .overlap-6 {
+  .exatus-marine .overlap-6 {
     position: absolute;
     width: 49px;
     height: 133px;
@@ -671,7 +668,7 @@
     left: 0;
   }
   
-  .pgina-de-espera .copy-wellness-23 {
+  .exatus-marine .copy-wellness-23 {
     top: 118px;
     left: 39px;
     transform: rotate(-152.81deg);
@@ -685,7 +682,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-24 {
+  .exatus-marine .copy-wellness-24 {
     top: 116px;
     left: 36px;
     transform: rotate(-150.06deg);
@@ -699,7 +696,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-25 {
+  .exatus-marine .copy-wellness-25 {
     top: 114px;
     left: 33px;
     transform: rotate(-147.11deg);
@@ -713,7 +710,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-26 {
+  .exatus-marine .copy-wellness-26 {
     top: 109px;
     left: 22px;
     transform: rotate(-140deg);
@@ -727,7 +724,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-27 {
+  .exatus-marine .copy-wellness-27 {
     top: 102px;
     left: 17px;
     transform: rotate(-131.04deg);
@@ -741,7 +738,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-28 {
+  .exatus-marine .copy-wellness-28 {
     top: 97px;
     left: 15px;
     transform: rotate(-126.24deg);
@@ -755,7 +752,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-29 {
+  .exatus-marine .copy-wellness-29 {
     top: 95px;
     left: 13px;
     transform: rotate(-123.31deg);
@@ -769,7 +766,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-30 {
+  .exatus-marine .copy-wellness-30 {
     top: 90px;
     left: 8px;
     transform: rotate(-118.67deg);
@@ -783,7 +780,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-31 {
+  .exatus-marine .copy-wellness-31 {
     top: 83px;
     left: 5px;
     transform: rotate(-111.86deg);
@@ -797,7 +794,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-32 {
+  .exatus-marine .copy-wellness-32 {
     top: 76px;
     left: 3px;
     transform: rotate(-105.6deg);
@@ -811,7 +808,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-33 {
+  .exatus-marine .copy-wellness-33 {
     top: 69px;
     left: 2px;
     transform: rotate(-99.92deg);
@@ -825,7 +822,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-34 {
+  .exatus-marine .copy-wellness-34 {
     top: 64px;
     left: 2px;
     transform: rotate(-95.52deg);
@@ -839,7 +836,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-35 {
+  .exatus-marine .copy-wellness-35 {
     top: 58px;
     left: 0;
     transform: rotate(-90.88deg);
@@ -853,7 +850,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-36 {
+  .exatus-marine .copy-wellness-36 {
     top: 53px;
     left: 2px;
     transform: rotate(-86.02deg);
@@ -867,7 +864,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-37 {
+  .exatus-marine .copy-wellness-37 {
     top: 48px;
     left: 2px;
     transform: rotate(-82.49deg);
@@ -881,7 +878,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-38 {
+  .exatus-marine .copy-wellness-38 {
     top: 42px;
     left: 2px;
     transform: rotate(-77.23deg);
@@ -895,7 +892,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-39 {
+  .exatus-marine .copy-wellness-39 {
     top: 35px;
     left: 4px;
     transform: rotate(-71.16deg);
@@ -909,7 +906,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-40 {
+  .exatus-marine .copy-wellness-40 {
     top: 30px;
     left: 7px;
     transform: rotate(-65.79deg);
@@ -923,7 +920,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-41 {
+  .exatus-marine .copy-wellness-41 {
     top: 24px;
     left: 9px;
     transform: rotate(-60.06deg);
@@ -937,7 +934,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-42 {
+  .exatus-marine .copy-wellness-42 {
     top: 19px;
     left: 14px;
     transform: rotate(-55.22deg);
@@ -951,7 +948,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-43 {
+  .exatus-marine .copy-wellness-43 {
     top: 14px;
     left: 16px;
     transform: rotate(-50.42deg);
@@ -965,7 +962,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-44 {
+  .exatus-marine .copy-wellness-44 {
     top: 10px;
     left: 21px;
     transform: rotate(-45.83deg);
@@ -979,7 +976,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-45 {
+  .exatus-marine .copy-wellness-45 {
     top: 8px;
     left: 24px;
     transform: rotate(-42.92deg);
@@ -993,7 +990,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-46 {
+  .exatus-marine .copy-wellness-46 {
     top: 5px;
     left: 26px;
     transform: rotate(-40deg);
@@ -1007,7 +1004,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-47 {
+  .exatus-marine .copy-wellness-47 {
     top: 3px;
     left: 29px;
     transform: rotate(-36.24deg);
@@ -1021,7 +1018,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-48 {
+  .exatus-marine .copy-wellness-48 {
     top: 0;
     left: 33px;
     transform: rotate(-32.47deg);
@@ -1035,7 +1032,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .overlap-7 {
+  .exatus-marine .overlap-7 {
     position: absolute;
     width: 13px;
     height: 17px;
@@ -1043,7 +1040,7 @@
     left: 36px;
   }
   
-  .pgina-de-espera .copy-wellness-49 {
+  .exatus-marine .copy-wellness-49 {
     top: 1px;
     left: 0;
     transform: rotate(-29.52deg);
@@ -1057,7 +1054,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-50 {
+  .exatus-marine .copy-wellness-50 {
     top: 0;
     left: 3px;
     transform: rotate(-26.76deg);
@@ -1071,7 +1068,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-51 {
+  .exatus-marine .copy-wellness-51 {
     top: 0;
     left: 43px;
     transform: rotate(-19.49deg);
@@ -1085,7 +1082,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-52 {
+  .exatus-marine .copy-wellness-52 {
     top: 0;
     left: 56px;
     transform: rotate(-10.36deg);
@@ -1099,7 +1096,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-53 {
+  .exatus-marine .copy-wellness-53 {
     top: 14px;
     left: 82px;
     transform: rotate(-5.52deg);
@@ -1113,7 +1110,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-54 {
+  .exatus-marine .copy-wellness-54 {
     top: 14px;
     left: 85px;
     transform: rotate(-2.65deg);
@@ -1127,7 +1124,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-55 {
+  .exatus-marine .copy-wellness-55 {
     top: 14px;
     left: 89px;
     transform: rotate(2.21deg);
@@ -1141,7 +1138,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-56 {
+  .exatus-marine .copy-wellness-56 {
     top: 15px;
     left: 97px;
     transform: rotate(8.82deg);
@@ -1155,7 +1152,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-57 {
+  .exatus-marine .copy-wellness-57 {
     top: 16px;
     left: 105px;
     transform: rotate(15.16deg);
@@ -1169,7 +1166,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-58 {
+  .exatus-marine .copy-wellness-58 {
     top: 18px;
     left: 111px;
     transform: rotate(20.78deg);
@@ -1183,7 +1180,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-59 {
+  .exatus-marine .copy-wellness-59 {
     top: 20px;
     left: 117px;
     transform: rotate(25.06deg);
@@ -1197,7 +1194,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .overlap-8 {
+  .exatus-marine .overlap-8 {
     position: absolute;
     width: 51px;
     height: 56px;
@@ -1205,7 +1202,7 @@
     left: 120px;
   }
   
-  .pgina-de-espera .copy-wellness-60 {
+  .exatus-marine .copy-wellness-60 {
     top: 0;
     left: 0;
     transform: rotate(29.94deg);
@@ -1219,7 +1216,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-61 {
+  .exatus-marine .copy-wellness-61 {
     top: 3px;
     left: 7px;
     transform: rotate(34.78deg);
@@ -1233,7 +1230,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-62 {
+  .exatus-marine .copy-wellness-62 {
     top: 5px;
     left: 10px;
     transform: rotate(38.12deg);
@@ -1247,7 +1244,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-63 {
+  .exatus-marine .copy-wellness-63 {
     top: 10px;
     left: 13px;
     transform: rotate(43.33deg);
@@ -1261,7 +1258,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-64 {
+  .exatus-marine .copy-wellness-64 {
     top: 15px;
     left: 18px;
     transform: rotate(49.37deg);
@@ -1275,7 +1272,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-65 {
+  .exatus-marine .copy-wellness-65 {
     top: 20px;
     left: 23px;
     transform: rotate(54.6deg);
@@ -1289,7 +1286,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-66 {
+  .exatus-marine .copy-wellness-66 {
     top: 26px;
     left: 25px;
     transform: rotate(60.48deg);
@@ -1303,7 +1300,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-67 {
+  .exatus-marine .copy-wellness-67 {
     top: 30px;
     left: 30px;
     transform: rotate(65.15deg);
@@ -1317,7 +1314,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-68 {
+  .exatus-marine .copy-wellness-68 {
     top: 36px;
     left: 30px;
     transform: rotate(70.08deg);
@@ -1331,7 +1328,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-69 {
+  .exatus-marine .copy-wellness-69 {
     top: 41px;
     left: 34px;
     transform: rotate(74.84deg);
@@ -1345,7 +1342,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-70 {
+  .exatus-marine .copy-wellness-70 {
     top: 44px;
     left: 35px;
     transform: rotate(77.67deg);
@@ -1359,7 +1356,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .copy-wellness-71 {
+  .exatus-marine .copy-wellness-71 {
     top: 49px;
     left: 34px;
     transform: rotate(81.61deg);
@@ -1373,7 +1370,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .vector {
+  .exatus-marine .vector {
     position: absolute;
     width: 44px;
     height: 31px;
@@ -1381,7 +1378,7 @@
     left: 68px;
   }
   
-  .pgina-de-espera .frame-10 {
+  .exatus-marine .frame-10 {
     display: flex;
     flex-direction: column;
     width: 426px;
@@ -1392,7 +1389,7 @@
     left: 857px;
   }
   
-  .pgina-de-espera .frame-11 {
+  .exatus-marine .frame-11 {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -1403,7 +1400,7 @@
     flex: 0 0 auto;
   }
   
-  .pgina-de-espera .text-wrapper-7 {
+  .exatus-marine .text-wrapper-7 {
     position: relative;
     align-self: stretch;
     font-family: "DM Sans-Regular", Helvetica;
@@ -1414,7 +1411,7 @@
     line-height: normal;
   }
   
-  .pgina-de-espera .frame-12 {
+  .exatus-marine .frame-12 {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -1427,7 +1424,7 @@
     text-decoration: none;
   }
   
-  .pgina-de-espera .frame-13 {
+  .exatus-marine .frame-13 {
     display: flex;
     flex-wrap: wrap;
     width: 1360px;
@@ -1439,7 +1436,7 @@
     flex-direction: column;
   }
   
-  .pgina-de-espera .frame-14 {
+  .exatus-marine .frame-14 {
     display: inline-flex;
     align-items: center;
     gap: 16px;
@@ -1448,13 +1445,13 @@
     justify-content: center;
   }
   
-  .pgina-de-espera .img-2 {
+  .exatus-marine .img-2 {
     position: relative;
     width: 24px;
     height: 24px;
   }
   
-  .pgina-de-espera .text-wrapper-8 {
+  .exatus-marine .text-wrapper-8 {
     position: relative;
     width: fit-content;
     font-family: "DM Sans-Regular", Helvetica;
@@ -1466,7 +1463,7 @@
     white-space: nowrap;
   }
   
-  .pgina-de-espera .frame-15 {
+  .exatus-marine .frame-15 {
     display: flex;
     flex-direction: column;
     width: 1440px;
@@ -1479,13 +1476,13 @@
     background-color: #f6f6f6;
   }
   
-  .pgina-de-espera .group {
+  .exatus-marine .group {
     position: relative;
     width: 93.35px;
     height: 80px;
   }
   
-  .pgina-de-espera .frame-16 {
+  .exatus-marine .frame-16 {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1496,7 +1493,7 @@
     flex: 0 0 auto;
   }
   
-  .pgina-de-espera .frame-17 {
+  .exatus-marine .frame-17 {
     display: flex;
     width: 1360px;
     align-items: center;
@@ -1511,13 +1508,13 @@
     border-color: #d9d9d9;
   }
   
-  .pgina-de-espera .group-2 {
+  .exatus-marine .group-2 {
     position: relative;
     width: 228.67px;
     height: 24px;
   }
   
-  .pgina-de-espera .frame-18 {
+  .exatus-marine .frame-18 {
     display: inline-flex;
     align-items: flex-start;
     gap: 32px;
@@ -1525,7 +1522,7 @@
     flex: 0 0 auto;
   }
   
-  .pgina-de-espera .text-wrapper-9 {
+  .exatus-marine .text-wrapper-9 {
     position: relative;
     width: fit-content;
     margin-top: -1px;
@@ -1538,7 +1535,7 @@
     white-space: nowrap;
   }
   
-  .pgina-de-espera .frame-19 {
+  .exatus-marine .frame-19 {
     display: flex;
     align-items: flex-end;
     gap: 32px;
@@ -1548,7 +1545,7 @@
     flex: 0 0 auto;
   }
   
-  .pgina-de-espera .text-wrapper-10 {
+  .exatus-marine .text-wrapper-10 {
     position: relative;
     flex: 1;
     font-family: "DM Sans-Regular", Helvetica;
@@ -1559,7 +1556,7 @@
     line-height: 18px;
   }
   
-  .pgina-de-espera .text-wrapper-11 {
+  .exatus-marine .text-wrapper-11 {
     position: relative;
     width: fit-content;
     font-family: "DM Sans-Regular", Helvetica;
@@ -1571,13 +1568,13 @@
     white-space: nowrap;
   }
   
-  .pgina-de-espera .layer {
+  .exatus-marine .layer {
     position: relative;
     width: 55.43px;
     height: 24px;
   }
   
-  .pgina-de-espera .frame-20 {
+  .exatus-marine .frame-20 {
     display: flex;
     width: 1440px;
     align-items: center;
@@ -1593,13 +1590,13 @@
     border-color: #d9d9d9;
   }
   
-  .pgina-de-espera .logo {
+  .exatus-marine .logo {
     position: relative;
     width: 213.31px;
     height: 32px;
   }
   
-  .pgina-de-espera .group-3 {
+  .exatus-marine .group-3 {
     position: absolute;
     width: 40px;
     height: 21px;
@@ -1607,7 +1604,7 @@
     left: 1420px;
   }
   
-  .pgina-de-espera .rectangle-3 {
+  .exatus-marine .rectangle-3 {
     position: absolute;
     width: 40px;
     height: 5px;
@@ -1616,7 +1613,7 @@
     background-color: #84c5e2;
   }
   
-  .pgina-de-espera .rectangle-4 {
+  .exatus-marine .rectangle-4 {
     position: absolute;
     width: 40px;
     height: 5px;
@@ -1625,7 +1622,7 @@
     background-color: #f4af9f;
   }
   
-  .pgina-de-espera .rectangle-5 {
+  .exatus-marine .rectangle-5 {
     position: absolute;
     width: 40px;
     height: 5px;
@@ -1634,7 +1631,7 @@
     background-color: #30b6a9;
   }
   
-  .pgina-de-espera .group-4 {
+  .exatus-marine .group-4 {
     position: absolute;
     width: 40px;
     height: 21px;
