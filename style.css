@@ -208,6 +208,7 @@
     height: 543px;
     object-fit: cover;
     transition: transform 0.2s ease; 
+    cursor: pointer;
   }
 
   .exatus-marine .img:hover {
