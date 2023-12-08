@@ -1849,7 +1849,7 @@ width: 100%;
   top: -97px;
 }
 }
-@media (max-width: 991px) {
+@media (max-width: 992px) {
   .exatus-marine .frame {
     left: 50px;
     top: 100px;
@@ -1866,7 +1866,6 @@ width: 100%;
   top: 100px;
 }
 .exatus-marine .text-wrapper {
-font-size: 46px;
 margin-right: 40px;
 }
 .exatus-marine .p {
@@ -1920,5 +1919,14 @@ font-size: 27px;
   left: 172px;
   top: 2770px;
 }
+}
+@media (max-width: 768px){
+
+}
+@media (max-width: 576px) {
+
+}
+@media (max-width: 360px) {
+
 }
   /* Breakpoints */
