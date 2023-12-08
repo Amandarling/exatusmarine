@@ -10,7 +10,7 @@
   @media (max-width: 991px) {
     .imagens {
       flex-wrap: wrap;
-      justify-content: center;
+      justify-content: space-between;
     }
   }
   .img-nav {
@@ -1779,8 +1779,6 @@
 @media (max-width: 1200px) {
   .exatus-marine .div {
     width: 100%;
-    margin: 0px;
-    padding: 0px;
 }
   .exatus-marine .frame {
     left: 60px;
