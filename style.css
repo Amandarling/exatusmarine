@@ -1800,6 +1800,15 @@
   width: 320px;
   left: 40px;
 }
+.exatus-marine .frame-6 {
+  width: 100%;
+}
+.exatus-marine .text-wrapper-5 {
+width: 100%;
+}
+.exatus-marine .text-wrapper-6 {
+width: 100%;
+}
 .exatus-marine .frame-7 {
   width: 320px;
   left: 410px;
@@ -1832,7 +1841,8 @@
 }
 .exatus-marine .frame-13 {
   left: -5px;
-  width: 1230px;
+  width: 100%;
+  gap: 38px 32px;
 }
 }
   /* Breakpoints */
