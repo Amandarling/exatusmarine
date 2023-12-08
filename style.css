@@ -1777,11 +1777,16 @@
 
   /* Breakpoints */
 @media (max-width: 1200px) {
+  .exatus-marine .div {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
   .exatus-marine .frame {
     left: 60px;
 }
 .exatus-marine .rectangle {
-  left: -45px;
+  left: -77px;
   width: 483px;
   height: 668px;
 }
@@ -1789,6 +1794,47 @@
   width: 443px;
   height: 444px;
   left: -200px;
+}
+.exatus-marine .frame-2 {
+  left: 260px;
+}
+.exatus-marine .frame-5 {
+  width: 320px;
+  left: 40px;
+}
+.exatus-marine .frame-7 {
+  width: 320px;
+  left: 410px;
+}
+.exatus-marine .frame-9 {
+  width: 320px;
+  left: 783px;
+}
+.exatus-marine .img {
+  height: 443px;
+}
+.exatus-marine .rectangle-2 {
+  width: 535px;
+  height: 535px;
+}
+.exatus-marine .linked-path-group {
+  top: -90px;
+  left: -50px;
+}
+.exatus-marine .vector {
+  top: -15px;
+  left: 18px;
+}
+.exatus-marine .frame-10 {
+  left: 677px;
+  top: 2000px;
+}
+.exatus-marine .frame-4 {
+  left: 290px;
+}
+.exatus-marine .frame-13 {
+  left: -5px;
+  width: 1230px;
 }
 }
   /* Breakpoints */
