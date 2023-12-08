@@ -1918,7 +1918,13 @@ font-size: 27px;
 }
 .exatus-marine .frame-4 {
   left: 172px;
-  top: 2770px;
+  top: 2557px;
+}
+.exatus-marine .frame-13 {
+top: 2907px;
+}
+.exatus-marine .div {
+  height: 3300px;
 }
 }
 @media (max-width: 768px){
