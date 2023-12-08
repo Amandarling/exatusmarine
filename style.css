@@ -1775,4 +1775,20 @@
   }
   /* Footer */
 
-  
+  /* Breakpoints */
+@media (max-width: 1200px) {
+  .exatus-marine .frame {
+    left: 60px;
+}
+.exatus-marine .rectangle {
+  left: -45px;
+  width: 483px;
+  height: 668px;
+}
+.exatus-marine .espera {
+  width: 443px;
+  height: 444px;
+  left: -200px;
+}
+}
+  /* Breakpoints */
