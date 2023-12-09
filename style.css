@@ -1777,6 +1777,80 @@
   /* Footer */
 
   /* Breakpoints */
+@media (max-width: 1367px) {
+  .exatus-marine .div {
+    width: 100%;
+}
+  .exatus-marine .frame {
+    left: 70px;
+}
+.exatus-marine .rectangle {
+  left: 50px;
+  width: 483px;
+  height: 668px;
+}
+.exatus-marine .espera {
+  width: 443px;
+  height: 444px;
+  left: -100px;
+}
+.exatus-marine .frame-2 {
+  left: 320px;
+}
+.exatus-marine .frame-5 {
+  width: 320px;
+  left: 80px;
+}
+.exatus-marine .frame-6 {
+  width: 100%;
+}
+.exatus-marine .text-wrapper-5 {
+width: 100%;
+}
+.exatus-marine .text-wrapper-6 {
+width: 100%;
+}
+.exatus-marine .frame-7 {
+  width: 320px;
+  left: 490px;
+}
+.exatus-marine .frame-9 {
+  width: 320px;
+  left: 900px;
+}
+.exatus-marine .img {
+  height: 443px;
+}
+.exatus-marine .rectangle-2 {
+  width: 535px;
+  height: 535px;
+  left: 45px;
+}
+.exatus-marine .linked-path-group {
+  top: -90px;
+  left: -50px;
+}
+.exatus-marine .vector {
+  top: -15px;
+  left: 18px;
+}
+.exatus-marine .frame-10 {
+  left: 750px;
+  top: 2000px;
+}
+.exatus-marine .frame-4 {
+  left: 290px;
+}
+.exatus-marine .frame-13 {
+  left: -5px;
+  width: 100%;
+  gap: 38px 32px;
+}
+.exatus-marine .overlap-2 {
+  left: -60px;
+  top: -97px;
+}
+}
 @media (max-width: 1201px) {
   .exatus-marine .div {
     width: 100%;
