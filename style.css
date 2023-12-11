@@ -2027,7 +2027,7 @@ top: 2907px;
 .exatus-marine .frame {
   position: relative;
   top: 523px;
-  width: 600px;
+  width: 250px;
 }
 .exatus-marine .frame-2 {
   top: 979px;
@@ -2082,15 +2082,13 @@ width: 345px;
 }
 .exatus-marine .p {
   margin-right: 0px;
+  font-size: 15px;
 }
 .exatus-marine .frame-8 {
 width: auto;
 }
 .exatus-marine .frame-3 {
   top: 30px;
-}
-.exatus-marine .p {
-  font-size: 15px;
 }
 .exatus-marine .text-wrapper-4 {
   left: -1px;
@@ -2135,7 +2133,7 @@ top: -2px;
   left: 15px;
   top: 301px;
   gap: 9px;
-  width: 280px;
+  width: 250px;
 }
 .exatus-marine .text-wrapper {
 font-size: 34px;
@@ -2146,7 +2144,7 @@ font-size: 34px;
 }
 .exatus-marine .text-wrapper-4 {
 font-size: 29px;
-width: 290px;
+width: 255px;
 }
 .exatus-marine .div-wrapper {
   position: relative;
@@ -2155,7 +2153,7 @@ width: 290px;
 .exatus-marine .frame-2 {
 width: 290px;
 left: 20px;
-top: 591px;
+top: 622px;
 }
 .exatus-marine .frame-5 {
   top: 600px;
@@ -2172,6 +2170,7 @@ top: 591px;
 }
 .exatus-marine .div {
   height: 3900px;
+  width: 280px;
 }
 .exatus-marine .rectangle-2 {
   width: 250px;
@@ -2180,24 +2179,11 @@ top: 591px;
   top: 106px;
   left: -8px;
 }
-.path-emp {
-  height: 80px;
-  width: 80px;
-  left: 56px;
-  top: 45px;
-}
 .exatus-marine .overlap-group {
   left: 40px;
   top: 2011px;
   width: 200px;
-  height: 280px;
-}
-.exatus-marine .overlap-2 {
-  position: relative;
-  width: 200px;
-  height: 180px;
-  left: -285px;
-  top: -275px;
+  height: 250px;
 }
 .exatus-marine .frame-3 {
   left: 96px;
@@ -2207,23 +2193,24 @@ top: 591px;
   font-size: 35px;
   margin: 0;
   padding: 0;
-  width: 280px;
+  width: 250px;
   left: 14px;
   top: 27px;
 }
 .exatus-marine .p {
-width: 280px;
+width: 250px;
 left: 13px;
 top: 6px;
 }
 .exatus-marine .frame-10 {
-width: 280px;
+width: 250px;
 left: 18px;
 top: 2449px;
 }
 .exatus-marine .frame-11 {
   left: -2px;
   top: 7px;
+  align-items: center;
 }
 .exatus-marine .frame-3 {
   left: 96px;
@@ -2244,24 +2231,21 @@ top: 2449px;
 .exatus-marine .text-wrapper-8 {
   font-size: 18px;
 }
-.exatus-marine .frame-14 {
-  left: 12px;
-  top: -2px;
-}
 #ende {
   white-space: pre-line;
   line-height: 1.5;
   word-wrap: break-word;
 }
 .exatus-marine .frame-13 {
-width: 280px;
+width: 250px;
 left: 18px;
 top: 3334px;
 }
 .exatus-marine .frame-14 {
-width: 280px;
+width: 250px;
 position: relative; 
-top: 187px
+top: 187px;
+left: 12px;
 }
 #mail{
   will-change: top, left;
@@ -2293,6 +2277,20 @@ top: 187px
 }
 .exatus-marine .overlap-wrapper {
   left: 0px;
+}
+.exatus-marine .overlap-2 {
+  left: 162px;
+  top: -145px;
+  width: 100px;
+}
+.path-emp {
+  height: 80px;
+  width: 80px;
+  left: -29px;
+  top: -86px;
+}
+.exatus-marine .frame{
+  width: 290px;
 }
 }
   /* Breakpoints */
