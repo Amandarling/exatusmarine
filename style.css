@@ -2027,7 +2027,6 @@ top: 2907px;
 .exatus-marine .frame {
   position: relative;
   top: 523px;
-  width: 250px;
 }
 .exatus-marine .frame-2 {
   top: 979px;
@@ -2103,14 +2102,13 @@ width: auto;
 
 }
 @media (max-width: 322px) {
-.img-nav-2 {
-  top: -47px;
-  left: 268px;
+.img-logo {
+  left: -34px;
   position: relative;
 }
-.img-logo {
-  left: -33px;
-  position: relative;
+.img-nav-2{
+  left: 265px;
+  top: -47px;
 }
 .imagens {
 padding: 0;
@@ -2171,7 +2169,6 @@ top: 622px;
 }
 .exatus-marine .div {
   height: 3900px;
-  width: 280px;
 }
 .exatus-marine .rectangle-2 {
   width: 250px;
