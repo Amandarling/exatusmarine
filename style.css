@@ -2002,7 +2002,79 @@ top: 2907px;
 }
 }
 @media (max-width: 768px){
-
+  .exatus-marine .espera {
+    left: -558px;
+    top: 62px;
+}
+.exatus-marine .rectangle {
+  left: -426px;
+  top: -1px;
+}
+.exatus-marine .text-wrapper {
+  text-wrap: nowrap;
+}
+.exatus-marine .frame {
+  position: relative;
+  top: 523px;
+  width: 600px;
+}
+.exatus-marine .frame-2 {
+  top: 979px;
+  left: 62px;
+}
+.exatus-marine .frame-5 {
+  top: 1281px;
+  width: 200px;
+  height: 300px;
+}
+.exatus-marine .frame-7 {
+  top: 1281px;
+  width: 200px;
+  height: 300px;
+  left: 281px;
+}
+.exatus-marine .frame-9 {
+  top: 1281px;
+  width: 200px;
+  height: 300px;
+  left: 526px;
+}
+.exatus-marine .text-wrapper-5 {
+  font-size: 21px;
+}
+.exatus-marine .rectangle-2 {
+  top: -120px;
+  width: 335px;
+  height: 335px;
+}
+.path-emp {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  left: -51px;
+  top: -87px;
+}
+.exatus-marine .rectangle-2 {
+  position: relative;
+  left: -1px;
+}
+.exatus-marine .frame-10 {
+  left: 391px;
+  top: 1725px;
+  
+}
+.exatus-marine .text-wrapper-7 {
+  font-size: 46px;
+}
+.exatus-marine .frame-10 {
+width: 345px;
+}
+.exatus-marine .p {
+  margin-right: 0px;
+}
+.exatus-marine .frame-8 {
+width: auto;
+}
 }
 @media (max-width: 576px) {
 
