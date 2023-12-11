@@ -1834,7 +1834,7 @@ width: 100%;
 }
 .exatus-marine .rectangle-2 {
   width: 535px;
-  height: 535px;
+  height: 535px;290px
   left: 45px;
 }
 .exatus-marine .linked-path-group {
@@ -2132,11 +2132,12 @@ top: -2px;
 .exatus-marine .frame {
   left: 15px;
   top: 301px;
-  gap: 9px;
-  width: 250px;
+  gap: 6px;
 }
 .exatus-marine .text-wrapper {
 font-size: 34px;
+margin: 0;
+padding: 0;
 }
 .exatus-marine .frame-2 {
   left: -163px;
@@ -2151,7 +2152,7 @@ width: 255px;
   left: 46px;
 }
 .exatus-marine .frame-2 {
-width: 290px;
+width: 250px;
 left: 20px;
 top: 622px;
 }
@@ -2253,7 +2254,7 @@ left: 12px;
   top: -1px;
 }
 #email{
-  left: 88px;
+  left: 84px;
   top: -1px;
   position: relative;
 }
@@ -2290,7 +2291,12 @@ left: 12px;
   top: -86px;
 }
 .exatus-marine .frame{
-  width: 290px;
+  width: 250pxpx;
+}
+.exatus-marine .overlap {
+  position: absolute;
+  top: 0;
+  left: 717px;
 }
 }
   /* Breakpoints */
