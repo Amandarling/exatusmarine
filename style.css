@@ -23,6 +23,17 @@
     max-width: 100%;
     margin: auto 0;
   }
+  .img-nav-2 {
+    aspect-ratio: 0.95;
+    object-fit: contain;
+    object-position: center;
+    width: 20px;
+    overflow: hidden;
+    align-self: center;
+    max-width: 100%;
+    margin: auto 0;
+  }
+  
   .img-logo {
     aspect-ratio: 6.69;
     object-fit: contain;
@@ -2046,6 +2057,8 @@ top: 2907px;
   top: -120px;
   width: 335px;
   height: 335px;
+  position: relative;
+  left: -1px;
 }
 .path-emp {
   height: 100px;
@@ -2054,10 +2067,6 @@ top: 2907px;
   left: -51px;
   top: -87px;
 }
-.exatus-marine .rectangle-2 {
-  position: relative;
-  left: -1px;
-}
 .exatus-marine .frame-10 {
   left: 391px;
   top: 1725px;
@@ -2065,6 +2074,8 @@ top: 2907px;
 }
 .exatus-marine .text-wrapper-7 {
   font-size: 46px;
+  left: -2px;
+  top: 73px;
 }
 .exatus-marine .frame-10 {
 width: 345px;
@@ -2075,11 +2086,213 @@ width: 345px;
 .exatus-marine .frame-8 {
 width: auto;
 }
+.exatus-marine .frame-3 {
+  top: 30px;
+}
+.exatus-marine .p {
+  font-size: 15px;
+}
+.exatus-marine .text-wrapper-4 {
+  left: -1px;
+  top: 50px;
+}
+.exatus-marine .frame-4 {
+  left: 53px;
+  top: 2419px;
+}
 }
 @media (max-width: 576px) {
 
 }
-@media (max-width: 360px) {
-
+@media (max-width: 322px) {
+.img-nav-2 {
+  top: -47px;
+  left: 268px;
+  position: relative;
+}
+.img-logo {
+  left: -33px;
+  position: relative;
+}
+.imagens {
+padding: 0;
+margin-bottom: 0;
+margin-top: 42px;
+}
+.exatus-marine .espera {
+width: 200px;
+height: 200px;
+left: -701px;
+top: 20px;
+}
+.exatus-marine .rectangle {
+width: 200px;
+height: 250px;
+left: -630px;
+top: -2px;
+}
+.exatus-marine .frame {
+  left: 15px;
+  top: 301px;
+  gap: 9px;
+  width: 280px;
+}
+.exatus-marine .text-wrapper {
+font-size: 34px;
+}
+.exatus-marine .frame-2 {
+  left: -163px;
+  top: 613px;
+}
+.exatus-marine .text-wrapper-4 {
+font-size: 29px;
+width: 290px;
+}
+.exatus-marine .div-wrapper {
+  position: relative;
+  left: 46px;
+}
+.exatus-marine .frame-2 {
+width: 290px;
+left: 20px;
+top: 591px;
+}
+.exatus-marine .frame-5 {
+  top: 600px;
+  position: relative;
+}
+.exatus-marine .frame-7 {
+  left: 60px;
+  top: 1275px;
+}
+.exatus-marine .frame-9 {
+  left: 38px;
+  top: 1110px;
+  position: relative;
+}
+.exatus-marine .div {
+  height: 3900px;
+}
+.exatus-marine .rectangle-2 {
+  width: 250px;
+  height: 250px;
+  position: relative;
+  top: 106px;
+  left: -8px;
+}
+.path-emp {
+  height: 80px;
+  width: 80px;
+  left: 56px;
+  top: 45px;
+}
+.exatus-marine .overlap-group {
+  left: 40px;
+  top: 2011px;
+  width: 200px;
+  height: 280px;
+}
+.exatus-marine .overlap-2 {
+  position: relative;
+  width: 200px;
+  height: 180px;
+  left: -285px;
+  top: -275px;
+}
+.exatus-marine .frame-3 {
+  left: 96px;
+  top: 23px;
+}
+.exatus-marine .text-wrapper-7 {
+  font-size: 35px;
+  margin: 0;
+  padding: 0;
+  width: 280px;
+  left: 14px;
+  top: 27px;
+}
+.exatus-marine .p {
+width: 280px;
+left: 13px;
+top: 6px;
+}
+.exatus-marine .frame-10 {
+width: 280px;
+left: 18px;
+top: 2449px;
+}
+.exatus-marine .frame-11 {
+  left: -2px;
+  top: 7px;
+}
+.exatus-marine .frame-3 {
+  left: 96px;
+  top: 23px;
+}
+.exatus-marine .frame-12 {
+  left: 63px;
+  top: -7px;
+}
+.exatus-marine .frame-4 {
+  left: 13px;
+  top: 3035px;
+}
+.exatus-marine .frame-3 {
+  position: relative;
+  left: 1px;
+}
+.exatus-marine .text-wrapper-8 {
+  font-size: 18px;
+}
+.exatus-marine .frame-14 {
+  left: 12px;
+  top: -2px;
+}
+#ende {
+  white-space: pre-line;
+  line-height: 1.5;
+  word-wrap: break-word;
+}
+.exatus-marine .frame-13 {
+width: 280px;
+left: 18px;
+top: 3334px;
+}
+.exatus-marine .frame-14 {
+width: 280px;
+position: relative; 
+top: 187px
+}
+#mail{
+  will-change: top, left;
+  left: 96px;
+  top: -1px;
+}
+#email{
+  left: 88px;
+  top: -1px;
+  position: relative;
+}
+#cell{
+  left: -158px;
+  top: 76px;
+  position: relative;
+}
+#tell{
+  left: -160px;
+  top: 75px;
+}
+#map-pin{
+  left: -7px;
+  top: 34px;
+  position: relative;
+}
+#ende{
+  left: -13px;
+  top: 39px;
+}
+.exatus-marine .overlap-wrapper {
+  left: 0px;
+}
 }
   /* Breakpoints */
