@@ -2258,7 +2258,7 @@ width: 300px;
   word-wrap: break-word;
 }
 }
-@media (max-width: 322px) {
+@media (max-width: 350px) {
   #img-hide {
 width: 200px;
 height: 250px;
