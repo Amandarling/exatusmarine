@@ -2258,7 +2258,7 @@ width: 300px;
   word-wrap: break-word;
 }
 }
-@media(max-width: 352px) {
+@media(max-width: 375px) {
   .img-nav-2 {
     top: 0px;
     left: 2px;
