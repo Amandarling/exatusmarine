@@ -2174,7 +2174,7 @@ width: 500px;
 width: 300px;
 }
 #img-hide {
- background-image: url(/img/espera-1.png);
+ background-image: url(./img/espera-1.png);
  width: 350px;
  height: 400px;
  background-size: cover;
