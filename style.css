@@ -2268,12 +2268,12 @@ width: 300px;
     width: 200px;
     height: 250px;
     } 
-    #ret-hide {
+  #ret-hide {
     width: 180px;
     height: 300px;
     left: 111px;
     }
-    .img-logo {
+  .img-logo {
       position: relative;
       left: -26px;
 }
