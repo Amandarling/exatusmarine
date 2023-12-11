@@ -2264,6 +2264,153 @@ width: 300px;
     left: 2px;
     position: relative;
   }
+  #img-hide {
+    width: 200px;
+    height: 250px;
+    } 
+    #ret-hide {
+    width: 180px;
+    height: 300px;
+    left: 111px;
+    }
+    .img-logo {
+      position: relative;
+      left: -26px;
+}
+.exatus-marine .text-wrapper {
+  font-size: 34px;
+}
+.exatus-marine .frame {
+  width: 250px;
+  left: 3px;
+}
+.exatus-marine .div-wrapper {
+  position: relative;
+  left: 28px;
+}
+.exatus-marine .frame-2 {
+  left: 20px;
+  top: 799px;
+  width: 250px;
+}
+.exatus-marine .frame-3 {
+  position: relative;
+  left: 17px;
+}
+.exatus-marine .div {
+  height: 3900px;
+}
+.exatus-marine .frame-5 {
+  left: 74px;
+  top: 1149px;
+}
+.exatus-marine .frame-7 {
+  left: 74px;
+  top: 1445px;
+}
+.exatus-marine .frame-9 {
+  left: 74px;
+  top: 1737px;
+}
+#e-mail{
+ font-size: 18px;
+ position: relative;
+ left: 31px;
+ top: 2875px;
+}
+#e-mail-1{
+  font-size: 18px;
+  left: -4px;
+  top: 2845px;
+}
+#celular{
+  font-size: 18px;
+  left: 81px;
+  top: 2880px;
+}
+#cell-1{
+  left: 35px;
+  top: 2910px;
+
+}
+#map-pin-1{
+  left: -10px;
+  top: 2963px;
+}
+#ende-1{
+  font-size: 18px;
+  left: 36px;
+  top: 2878px;
+  width: 240px;
+}
+.exatus-marine .frame-4 {
+  left: 6px;
+  top: 3135px;
+}
+.exatus-marine .rectangle-2 {
+  width: 250px;
+  height: 335px;
+  left: 12px;
+  top: -118px;
+  object-fit: fill;
+}
+.exatus-marine .overlap-group {
+  left: 12px;
+  top: 2131px;
+}
+.exatus-marine .frame-10 {
+  left: 27px;
+  top: 2491px;
+  width: 250px;
+}
+.exatus-marine .overlap-wrapper {
+  left: 118px;
+  top: 139px;
+}
+.exatus-marine .frame-10 {
+width: 250px;
+}
+.exatus-marine .text-wrapper-7 {
+  font-size: 34px;
+  width: 272px;
+}
+.exatus-marine .frame-3 {
+  position: relative;
+  left: 10px;
+  left: 1px;
+  top: 98px;
+}
+.exatus-marine .overlap-2 {
+width: 250px;
+}
+.exatus-marine .overlap-group {
+  width: 250px;
+  left: 15px;
+  top: 2200px;
+}
+.exatus-marine .p {
+width: 250px;
+}
+.exatus-marine .frame-11 {
+width: 250px;
+}
+.exatus-marine .overlap-wrapper {
+width: 80px;
+}
+.exatus-marine .text-wrapper {
+  position: relative;
+  left: -8px;
+}
+.path-emp {
+width: 80px;
+height: 80px;
+}
+.exatus-marine .text-wrapper-4 {
+  left: 8px;
+  top: 102px;
+  font-size: 32px;
+  width: 283px;
+} 
 }
 @media (max-width: 322px) {
   #img-hide {
