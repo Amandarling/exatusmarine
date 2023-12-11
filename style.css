@@ -1834,7 +1834,7 @@ width: 100%;
 }
 .exatus-marine .rectangle-2 {
   width: 535px;
-  height: 535px;290px
+  height: 535px;
   left: 45px;
 }
 .exatus-marine .linked-path-group {
@@ -1947,7 +1947,7 @@ width: 100%;
 }
 .exatus-marine .espera {
   width: 343px;
-  height: 344px;
+  height: 354px;
   left: -260px;
   top: 100px;
 }
@@ -2027,6 +2027,7 @@ top: 2907px;
 .exatus-marine .frame {
   position: relative;
   top: 523px;
+  width: 250px;
 }
 .exatus-marine .frame-2 {
   top: 979px;
@@ -2099,201 +2100,316 @@ width: auto;
 }
 }
 @media (max-width: 576px) {
-
-}
-@media (max-width: 322px) {
-.img-logo {
-  left: -34px;
-  position: relative;
-}
-.img-nav-2{
-  left: 265px;
-  top: -47px;
-}
-.imagens {
-padding: 0;
-margin-bottom: 0;
-margin-top: 42px;
-}
-.exatus-marine .espera {
-width: 200px;
-height: 200px;
-left: -701px;
-top: 20px;
+  .exatus-marine .espera {
+    left: -704px;
+    top: 61px;
 }
 .exatus-marine .rectangle {
-width: 200px;
-height: 250px;
-left: -630px;
-top: -2px;
-}
-.exatus-marine .frame {
-  left: 15px;
-  top: 301px;
-  gap: 6px;
+  left: -580px;
+  top: 1px
 }
 .exatus-marine .text-wrapper {
-font-size: 34px;
-margin: 0;
-padding: 0;
+  font-size: 56px;
+}
+.exatus-marine .frame {
+width: 400px;
+left: 16px;
+top: 169px;
 }
 .exatus-marine .frame-2 {
-  left: -163px;
-  top: 613px;
+  width: 400px;
+}
+.exatus-marine .frame-5 {
+  width: 150px;
+  height: 250px;
+  left: 11px;
+  top: 1283px;
+}
+.exatus-marine .frame-7 {
+  top: 1281px;
+  width: 150px;
+  height: 250px;
+  left: 194px;
+}
+.exatus-marine .frame-9 {
+  top: 1281px;
+  width: 150px;
+  height: 250px;
+  left: 369px;
+}
+.exatus-marine .text-wrapper-5 {
+  font-size: 16px;
+}
+.exatus-marine .text-wrapper-6 {
+  font-size: 13px;
 }
 .exatus-marine .text-wrapper-4 {
-font-size: 29px;
-width: 255px;
+width: 500px;
+}
+.exatus-marine .overlap-group {
+  left: 107px;
+  top: 1752px;
+}
+.exatus-marine .frame-10 {
+  width: 400px;
+  left: 104px;
+  top: 2018px;
+}
+.exatus-marine .overlap-wrapper {
+  left: 143px;
+  top: 155px;
+}
+.path-emp {
+  left: 163px;
+  top: 330px;
+}
+.exatus-marine .frame-4 {
+  left: 13px;
+  top: 2598px;
+}
+.exatus-marine .overlap{
+  display: none;
+}
+.exatus-marine .overlap-group {
+width: 300px;
+}
+#img-hide {
+ background-image: url(/img/espera-1.png);
+ width: 350px;
+ height: 400px;
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat; 
+ left: 2px;
+ top: -4px;
+ position: relative;
+}
+#ret-hide{
+  position: absolute;
+  width: 380px;
+  height: 450px;
+  top: 0;
+  left: 142px;
+  background-color: #84c5e2;
+  opacity: 0.1;
+}
+.exatus-marine .frame-13 {
+  display: none;
+}
+#e-mail{
+  position: relative;
+  width: fit-content;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #121213;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+  display: flex !important;
+  left: 74px;
+  top: 2167px;
+}
+#e-mail-1{
+  left: 42px;
+  top: 2138px;
+  position: relative;
+  display: flex !important;
+}
+#celular{
+  position: relative;
+  width: fit-content;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #121213;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+  display: flex !important;
+  left: 156px;
+  top: 2167px;
+}
+#cell-1{
+  left: 125px;
+  top: 2198px;
+  position: relative;
+  display: flex !important;
+}
+#map-pin-1{
+  left: 38px;
+  top: 2222px;
+  position: relative;
+  display: flex !important;
+}
+#ende-1{
+  position: relative;
+  width: 300px;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #121213;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 36px;
+  display: flex !important;
+  left: 88px;
+  top: 2167px;
+  white-space: pre-line;
+  word-wrap: break-word;
+}
+}
+@media (max-width: 322px) {
+  #img-hide {
+width: 200px;
+height: 250px;
+} 
+#ret-hide {
+width: 180px;
+height: 300px;
+left: 111px;
+}
+.img-logo {
+  position: relative;
+  left: -26px;
+}
+.img-nav-2 {
+  top: -47px;
+  left: 269px;
+  position: relative;
+}
+.exatus-marine .text-wrapper {
+  font-size: 34px;
+}
+.exatus-marine .frame {
+  width: 250px;
+  left: 3px;
 }
 .exatus-marine .div-wrapper {
   position: relative;
-  left: 46px;
+  left: 28px;
 }
 .exatus-marine .frame-2 {
-width: 250px;
-left: 20px;
-top: 622px;
+  left: 20px;
+  top: 799px;
+  width: 250px;
 }
-.exatus-marine .frame-5 {
-  top: 600px;
+.exatus-marine .frame-3 {
   position: relative;
-}
-.exatus-marine .frame-7 {
-  left: 60px;
-  top: 1275px;
-}
-.exatus-marine .frame-9 {
-  left: 38px;
-  top: 1110px;
-  position: relative;
+  left: 17px;
 }
 .exatus-marine .div {
   height: 3900px;
 }
+.exatus-marine .frame-5 {
+  left: 74px;
+  top: 1149px;
+}
+.exatus-marine .frame-7 {
+  left: 74px;
+  top: 1445px;
+}
+.exatus-marine .frame-9 {
+  left: 74px;
+  top: 1737px;
+}
+#e-mail{
+ font-size: 18px;
+ position: relative;
+ left: 31px;
+ top: 2875px;
+}
+#e-mail-1{
+  font-size: 18px;
+  left: -4px;
+  top: 2845px;
+}
+#celular{
+  font-size: 18px;
+  left: 81px;
+  top: 2880px;
+}
+#cell-1{
+  left: 35px;
+  top: 2910px;
+
+}
+#map-pin-1{
+  left: -10px;
+  top: 2963px;
+}
+#ende-1{
+  font-size: 18px;
+  left: 36px;
+  top: 2878px;
+  width: 240px;
+}
+.exatus-marine .frame-4 {
+  left: 6px;
+  top: 3135px;
+}
 .exatus-marine .rectangle-2 {
   width: 250px;
-  height: 250px;
-  position: relative;
-  top: 106px;
-  left: -8px;
+  height: 335px;
+  left: 12px;
+  top: -118px;
+  object-fit: fill;
 }
 .exatus-marine .overlap-group {
-  left: 40px;
-  top: 2011px;
-  width: 200px;
-  height: 250px;
+  left: 12px;
+  top: 2131px;
 }
-.exatus-marine .frame-3 {
-  left: 96px;
-  top: 23px;
-}
-.exatus-marine .text-wrapper-7 {
-  font-size: 35px;
-  margin: 0;
-  padding: 0;
+.exatus-marine .frame-10 {
+  left: 27px;
+  top: 2491px;
   width: 250px;
-  left: 14px;
-  top: 27px;
 }
-.exatus-marine .p {
-width: 250px;
-left: 13px;
-top: 6px;
+.exatus-marine .overlap-wrapper {
+  left: 118px;
+  top: 139px;
 }
 .exatus-marine .frame-10 {
 width: 250px;
-left: 18px;
-top: 2449px;
 }
-.exatus-marine .frame-11 {
-  left: -2px;
-  top: 7px;
-  align-items: center;
-}
-.exatus-marine .frame-3 {
-  left: 96px;
-  top: 23px;
-}
-.exatus-marine .frame-12 {
-  left: 63px;
-  top: -7px;
-}
-.exatus-marine .frame-4 {
-  left: 13px;
-  top: 3035px;
+.exatus-marine .text-wrapper-7 {
+  font-size: 34px;
+  width: 272px;
 }
 .exatus-marine .frame-3 {
   position: relative;
+  left: 10px;
   left: 1px;
-}
-.exatus-marine .text-wrapper-8 {
-  font-size: 18px;
-}
-#ende {
-  white-space: pre-line;
-  line-height: 1.5;
-  word-wrap: break-word;
-}
-.exatus-marine .frame-13 {
-width: 250px;
-left: 18px;
-top: 3334px;
-}
-.exatus-marine .frame-14 {
-width: 250px;
-position: relative; 
-top: 187px;
-left: 12px;
-}
-#mail{
-  will-change: top, left;
-  left: 96px;
-  top: -1px;
-}
-#email{
-  left: 84px;
-  top: -1px;
-  position: relative;
-}
-#cell{
-  left: -158px;
-  top: 76px;
-  position: relative;
-}
-#tell{
-  left: -160px;
-  top: 75px;
-}
-#map-pin{
-  left: -7px;
-  top: 34px;
-  position: relative;
-}
-#ende{
-  left: -13px;
-  top: 39px;
-}
-.exatus-marine .overlap-wrapper {
-  left: 0px;
+  top: 98px;
 }
 .exatus-marine .overlap-2 {
-  left: 162px;
-  top: -145px;
-  width: 100px;
+width: 250px;
+}
+.exatus-marine .overlap-group {
+  width: 250px;
+  left: 15px;
+  top: 2200px;
+}
+.exatus-marine .p {
+width: 250px;
+}
+.exatus-marine .frame-11 {
+width: 250px;
+}
+.exatus-marine .overlap-wrapper {
+width: 80px;
+}
+.exatus-marine .text-wrapper {
+  position: relative;
+  left: -8px;
 }
 .path-emp {
-  height: 80px;
-  width: 80px;
-  left: -29px;
-  top: -86px;
+width: 80px;
+height: 80px;
 }
-.exatus-marine .frame{
-  width: 250pxpx;
-}
-.exatus-marine .overlap {
-  position: absolute;
-  top: 0;
-  left: 717px;
+.exatus-marine .text-wrapper-4 {
+  left: 8px;
+  top: 102px;
+  font-size: 32px;
+  width: 283px;
 }
 }
   /* Breakpoints */
