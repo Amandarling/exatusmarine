@@ -2390,7 +2390,7 @@ width: 250px;
   top: 2200px;
 }
 .exatus-marine .p {
-width: 300px;
+width: 280px;
 }
 .exatus-marine .frame-11 {
 width: 250px;
@@ -2416,6 +2416,12 @@ width: 80px;
   font-size: 32px;
   width: 283px;
 } 
+#ende-1 {
+  font-size: 21px;
+  left: 36px;
+  top: 2878px;
+  width: 290px;
+}
 }
 @media (max-width: 326px) {
   #img-hide {
