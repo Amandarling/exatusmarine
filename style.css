@@ -2267,88 +2267,89 @@ width: 300px;
   #img-hide {
     width: 200px;
     height: 250px;
+    left: 69px;
+    top: 14px;
     } 
   #ret-hide {
     width: 180px;
     height: 300px;
-    left: 111px;
+    left: 159px;
     }
   .img-logo {
       position: relative;
-      left: -26px;
+      left: 0px;
 }
 .exatus-marine .text-wrapper {
   font-size: 34px;
 }
 .exatus-marine .frame {
   width: 250px;
-  left: 3px;
+  left: 34px;
 }
 .exatus-marine .div-wrapper {
   position: relative;
-  left: 28px;
+  left: 38px;
 }
 .exatus-marine .frame-2 {
-  left: 20px;
+  left: 46px;
   top: 799px;
   width: 250px;
 }
 .exatus-marine .frame-3 {
   position: relative;
-  left: 17px;
+  left: 103px;
 }
 .exatus-marine .div {
   height: 3900px;
 }
 .exatus-marine .frame-5 {
-  left: 74px;
+  left: 103px;
   top: 1149px;
 }
 .exatus-marine .frame-7 {
-  left: 74px;
+  left: 103px;
   top: 1445px;
 }
 .exatus-marine .frame-9 {
-  left: 74px;
+  left: 103px;
   top: 1737px;
 }
 #e-mail{
- font-size: 18px;
+ font-size: 21px;
  position: relative;
- left: 31px;
+ left: 36px;
  top: 2875px;
 }
 #e-mail-1{
-  font-size: 18px;
-  left: -4px;
+  left: 0px;
   top: 2845px;
 }
 #celular{
-  font-size: 18px;
-  left: 81px;
+  font-size: 21px;
+  left: 95px;
   top: 2880px;
 }
 #cell-1{
-  left: 35px;
+  left: 53px;
   top: 2910px;
 
 }
 #map-pin-1{
-  left: -10px;
+  left: 0px;
   top: 2963px;
 }
 #ende-1{
-  font-size: 18px;
+  font-size: 21px;
   left: 36px;
   top: 2878px;
-  width: 240px;
+  width: 300px;
 }
 .exatus-marine .frame-4 {
-  left: 6px;
+  left: 19px;
   top: 3135px;
 }
 .exatus-marine .rectangle-2 {
-  width: 250px;
+  width: 300px;
   height: 335px;
   left: 12px;
   top: -118px;
@@ -2368,7 +2369,7 @@ width: 300px;
   top: 139px;
 }
 .exatus-marine .frame-10 {
-width: 250px;
+width: 300px;
 }
 .exatus-marine .text-wrapper-7 {
   font-size: 34px;
@@ -2377,7 +2378,7 @@ width: 250px;
 .exatus-marine .frame-3 {
   position: relative;
   left: 10px;
-  left: 1px;
+  left: 7px;
   top: 98px;
 }
 .exatus-marine .overlap-2 {
@@ -2389,11 +2390,14 @@ width: 250px;
   top: 2200px;
 }
 .exatus-marine .p {
-width: 250px;
+width: 300px;
 }
 .exatus-marine .frame-11 {
 width: 250px;
 }
+.exatus-marine .frame-12 {
+  left: 53px;
+  }
 .exatus-marine .overlap-wrapper {
 width: 80px;
 }
@@ -2402,8 +2406,9 @@ width: 80px;
   left: -8px;
 }
 .path-emp {
-width: 80px;
-height: 80px;
+  width: 80px;
+  height: 80px;
+  left: 180px;
 }
 .exatus-marine .text-wrapper-4 {
   left: 8px;
@@ -2520,9 +2525,6 @@ left: 111px;
 .exatus-marine .overlap-wrapper {
   left: 118px;
   top: 139px;
-}
-.exatus-marine .frame-10 {
-width: 250px;
 }
 .exatus-marine .text-wrapper-7 {
   font-size: 34px;
