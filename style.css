@@ -2421,6 +2421,8 @@ width: 80px;
   #img-hide {
 width: 200px;
 height: 250px;
+left: 16px;
+top: 23px;
 } 
 #ret-hide {
 width: 180px;
@@ -2429,7 +2431,7 @@ left: 111px;
 }
 .img-logo {
   position: relative;
-  left: -26px;
+  left: -37px;
 }
 .img-nav-2 {
   top: -47px;
@@ -2445,7 +2447,7 @@ left: 111px;
 }
 .exatus-marine .div-wrapper {
   position: relative;
-  left: 28px;
+  left: 40px;
 }
 .exatus-marine .frame-2 {
   left: 20px;
@@ -2454,7 +2456,7 @@ left: 111px;
 }
 .exatus-marine .frame-3 {
   position: relative;
-  left: 17px;
+  left: 5px;
 }
 .exatus-marine .div {
   height: 3900px;
@@ -2479,7 +2481,7 @@ left: 111px;
 }
 #e-mail-1{
   font-size: 18px;
-  left: -4px;
+  left: 0px;
   top: 2845px;
 }
 #celular{
@@ -2493,7 +2495,7 @@ left: 111px;
 
 }
 #map-pin-1{
-  left: -10px;
+  left: 0px;
   top: 2963px;
 }
 #ende-1{
@@ -2507,9 +2509,9 @@ left: 111px;
   top: 3135px;
 }
 .exatus-marine .rectangle-2 {
-  width: 250px;
+  width: 280px;
   height: 335px;
-  left: 12px;
+  left: -7px;
   top: -118px;
   object-fit: fill;
 }
@@ -2560,12 +2562,16 @@ width: 80px;
 .path-emp {
 width: 80px;
 height: 80px;
+left: 148px;
 }
 .exatus-marine .text-wrapper-4 {
   left: 8px;
   top: 102px;
   font-size: 32px;
   width: 283px;
+}
+.exatus-marine .frame-12 {
+  left: 33px;
 }
 }
   /* Breakpoints */
