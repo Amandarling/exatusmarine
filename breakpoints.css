@@ -1,4 +1,4 @@
-@media (max-width: 991px) {
+@media (max-width: 995px) {
     .nav {
       max-width: 100%;
       flex-wrap: wrap;
@@ -11,20 +11,25 @@
         max-width: 100%;
       }
       .div-5 {
-        flex-direction: column;
-        align-items: stretch;
+        flex-direction: column-reverse;
+        align-items: self-start;
         gap: 0px;
       }
       .column {
-        width: 100%;
+        max-width: 100%;
+      }
+      .column-2 {
+        max-width: 100%;
       }
       .div-6 {
-        max-width: 100%;
+        width: 500px;
         margin-top: 40px;
+        padding-top: 20px;
+        padding-left: 100px;
       }
       .div-7 {
         max-width: 100%;
-        font-size: 40px;
+        font-size: 62px;
       }
       .div-8 {
         max-width: 100%;
@@ -35,13 +40,8 @@
       .column-2 {
         width: 100%;
       }
-      .div-10 {
-        max-width: 100%;
-        margin-top: 40px;
-        padding-right: 20px;
-      }
       .img-3 {
-        max-width: 100%;
+        max-width: 90%;
         margin-top: 40px;
       }
       .div-11 {
@@ -71,9 +71,10 @@
       .div-16 {
         max-width: 100%;
         margin-top: 40px;
+        align-items: center;
       }
       .img-4 {
-        max-width: 100%;
+        width: 90%;
       }
       .div-17 {
         max-width: 100%;
@@ -85,13 +86,18 @@
       }
       .column-4 {
         width: 100%;
+        display: flex;
+        flex-direction: column;
+        line-height: normal;
+        margin-left: 0px !important;
       }
       .div-19 {
         max-width: 100%;
         margin-top: 40px;
+        align-items: center;
       }
       .img-5 {
-        max-width: 100%;
+        width: 90%;
       }
       .div-20 {
         max-width: 100%;
@@ -103,13 +109,15 @@
       }
       .column-5 {
         width: 100%;
+        margin-left: 0px !important;
       }
       .div-22 {
         max-width: 100%;
         margin-top: 40px;
+        align-items: center;
       }
       .img-6 {
-        max-width: 100%;
+        width: 90%;
       }
       .div-23 {
         max-width: 100%;
