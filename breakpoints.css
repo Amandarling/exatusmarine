@@ -11,8 +11,7 @@
         max-width: 100%;
       }
       .div-5 {
-        flex-direction: column-reverse;
-        align-items: self-start;
+        display: flex;
         gap: 0px;
       }
       .column {
@@ -22,10 +21,8 @@
         max-width: 100%;
       }
       .div-6 {
-        width: 500px;
+        max-width: 100%;
         margin-top: 40px;
-        padding-top: 20px;
-        padding-left: 100px;
       }
       .div-7 {
         max-width: 100%;
