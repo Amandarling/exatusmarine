@@ -1,4 +1,4 @@
-@media (max-width: 995px) {
+@media (max-width: 991px) {
     .nav {
       max-width: 100%;
       flex-wrap: wrap;
@@ -29,7 +29,7 @@
       }
       .div-7 {
         max-width: 100%;
-        font-size: 62px;
+        font-size: 40px;
       }
       .div-8 {
         max-width: 100%;
