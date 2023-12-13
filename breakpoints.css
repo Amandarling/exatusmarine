@@ -1,0 +1,210 @@
+@media (max-width: 991px) {
+    .nav {
+      max-width: 100%;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+    .div-3 {
+        max-width: 100%;
+      }
+      .div-4 {
+        max-width: 100%;
+      }
+      .div-5 {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0px;
+      }
+      .column {
+        width: 100%;
+      }
+      .div-6 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+      .div-7 {
+        max-width: 100%;
+        font-size: 40px;
+      }
+      .div-8 {
+        max-width: 100%;
+      }
+      .div-9 {
+        white-space: initial;
+      }
+      .column-2 {
+        width: 100%;
+      }
+      .div-10 {
+        max-width: 100%;
+        margin-top: 40px;
+        padding-right: 20px;
+      }
+      .img-3 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+      .div-11 {
+        white-space: initial;
+        margin-top: 40px;
+      }
+      .div-12 {
+        max-width: 100%;
+        font-size: 40px;
+      }
+      .div-13 {
+        max-width: 100%;
+        margin-top: 40px;
+        padding: 0 20px;
+      }
+      .div-14 {
+        max-width: 100%;
+      }
+      div-15 {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0px;
+      }
+      .column-3 {
+        width: 100%;
+      }
+      .div-16 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+      .img-4 {
+        max-width: 100%;
+      }
+      .div-17 {
+        max-width: 100%;
+        white-space: initial;
+      }
+      .div-18 {
+        max-width: 100%;
+        white-space: initial;
+      }
+      .column-4 {
+        width: 100%;
+      }
+      .div-19 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+      .img-5 {
+        max-width: 100%;
+      }
+      .div-20 {
+        max-width: 100%;
+        white-space: initial;
+      }
+      .div-21 {
+        max-width: 100%;
+        white-space: initial;
+      }
+      .column-5 {
+        width: 100%;
+      }
+      .div-22 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+      .img-6 {
+        max-width: 100%;
+      }
+      .div-23 {
+        max-width: 100%;
+        white-space: initial;
+      }
+      .div-24 {
+        max-width: 100%;
+        white-space: initial;
+      }
+      .div-25 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+      .div-26 {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0px;
+      }
+      .column-6 {
+        width: 100%;
+      }
+      .img-7 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+      .column-7 {
+        width: 100%;
+      }
+      .div-27 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+      .div-29 {
+        max-width: 100%;
+        font-size: 40px;
+      }
+      .div-30 {
+        max-width: 100%;
+      }
+      .div-32 {
+        white-space: initial;
+        margin-top: 40px;
+      }
+      .div-33 {
+        max-width: 100%;
+        font-size: 40px;
+      }
+      .div-34 {
+        max-width: 100%;
+        margin-top: 40px;
+        padding: 0 20px;
+      }
+      .div-36 {
+        max-width: 100%;
+        flex-wrap: wrap;
+      }
+      .div-38 {
+        white-space: initial;
+      }
+      .div-40 {
+        white-space: initial;
+      }
+      .div-41 {
+        max-width: 100%;
+        flex-wrap: wrap;
+      }
+      .div-42 {
+        max-width: 100%;
+      }
+      .div-43 {
+        max-width: 100%;
+        margin-top: 40px;
+        padding: 0 20px;
+      }
+      .div-44 {
+        max-width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 40px;
+      }
+      .div-45 {
+        max-width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      .div-46 {
+        justify-content: center;
+      }
+      .div-47 {
+        max-width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      .div-48 {
+        max-width: 100%;
+        white-space: initial;
+      }
+ }
