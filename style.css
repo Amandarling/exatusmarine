@@ -50,7 +50,7 @@
 }
 @media (max-width: 991px) {
   .div-3 {
-    max-width: 100%;
+    max-width: 90%;
   }
 }
 @media (max-width: 991px) {
@@ -308,6 +308,7 @@
 @media (max-width: 991px) {
   .column-4 {
     width: 100%;
+    margin-left: 0px;
   }
 }
 .div-19 {
@@ -367,6 +368,7 @@
 @media (max-width: 991px) {
   .column-5 {
     width: 100%;
+    margin-left: 0px;
   }
 }
 .div-22 {
