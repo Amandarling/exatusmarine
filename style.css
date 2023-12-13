@@ -891,5 +891,49 @@
 .img-3{
   width: 95%;
 }
+.div-38{
+  font-size: 21px;
 }
+.div-40{
+  font-size: 21px;
+}
+.div-42{
+  font-size: 21px;
+}
+.img-2{
+  width: 72%;
+}
+}
+@media (max-width: 322px) {
+  .div-38{
+    font-size: 19px;
+  }
+  .div-40{
+    font-size: 19px;
+  }
+  .div-42{
+    font-size: 19px;
+  }
+  .img-2{
+    width: 67%;
+  }
+  .div-12 {
+    font-size: 29px;
+  }
+  .div-17{
+    font-size: 24px;
+  }
+  .div-20{
+    font-size: 24px;
+  }
+  .div-23{
+    font-size: 24px;
+  }
+  .div-29 {
+    font-size: 33px;
+  }
+  .div-33{
+    font-size: 37px;
+  }
+  }
 
