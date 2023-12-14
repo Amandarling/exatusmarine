@@ -867,6 +867,9 @@ h1{
   .div-41{
     flex-wrap: nowrap;
   }
+  .div-8{
+    margin: 10px 0px 10px 0px;
+  }
 }
 @media (max-width: 500px) {
   .img-4{
@@ -908,6 +911,24 @@ h1{
 }
 .img-2{
   width: 72%;
+}
+.div-12 {
+  font-size: 35px;
+}
+.div-20 {
+  font-size: 29px;
+}
+.div-17 {
+  font-size: 29px;
+}
+.div-23 {
+  font-size: 29px;
+}
+.div-16, .div-13{
+  margin: 1px;
+}
+.div-6{
+  margin: 20px;
 }
 }
 @media (max-width: 350px) {
